@@ -1,0 +1,11 @@
+numpy==1.20.1
+scipy==1.6.2
+pykrige==1.6.1
+pandas==1.1.2
+control==0.9.0
+doepy==0.0.1
+sqlalchemy==1.4.15
+scikit-optimize==0.9.0
+smt==1.0.0
+pywebio==1.4.0
+py_expression_eval==0.3.14
